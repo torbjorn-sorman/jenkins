@@ -1,0 +1,7 @@
+*.class
+.DS_Store
+*.zip
+test-output/
+cobertura.ser
+instrumented/
+cobertura_report/
